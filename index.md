@@ -16,9 +16,9 @@
   * [USE Sentiment Analysis on Amazon Reviews](http://example.com/)
 
 2. Supervised Learning
-  * Classification
-   * [KNN on Telecom Churn Data](http://example.com/)
-   * [Random Forests on Telecom Churn Data](http://example.com/)
+    * Classification
+       * [KNN on Telecom Churn Data](http://example.com/)
+       * [Random Forests on Telecom Churn Data](http://example.com/)
   * Regression
    * [Linear Regression on LA Airbnb Data](http://example.com/)
    * [Linear Regression on PA Population Data](http://example.com/)
