@@ -5,8 +5,6 @@
     * [Telecom Company Churn Dashboard](/sample_page)
 2. Power BI (Coming Soon)
 
----
-
 ## Machine Learning
 1. Sentiment Analysis
     * [NLTK & TF Sentiment Analysis on Amazon Reviews](http://example.com/)
