@@ -3,10 +3,9 @@
 ---
 
 ## Business Intelligence
-#### Tableau
-- [Telecom Company Churn Dashboard](/sample_page)
-
-#### Power BI (Coming Soon)
+1. Tableau
+    * [Telecom Company Churn Dashboard](/sample_page)
+2. Power BI (Coming Soon)
 
 ---
 
