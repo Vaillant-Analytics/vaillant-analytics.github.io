@@ -17,13 +17,13 @@
 
 2. Supervised Learning
   * Classification
-   - [KNN on Telecom Churn Data](http://example.com/)
-   - [Random Forests on Telecom Churn Data](http://example.com/)
+   * [KNN on Telecom Churn Data](http://example.com/)
+   * [Random Forests on Telecom Churn Data](http://example.com/)
   * Regression
-- [Linear Regression on LA Airbnb Data](http://example.com/)
-- [Linear Regression on PA Population Data](http://example.com/)
-- [Linear Regression on Telecom Churn Data](http://example.com/)
-- [Logistic Regression on Telecom Churn Data](http://example.com/)
+   * [Linear Regression on LA Airbnb Data](http://example.com/)
+   * [Linear Regression on PA Population Data](http://example.com/)
+   * [Linear Regression on Telecom Churn Data](http://example.com/)
+   * [Logistic Regression on Telecom Churn Data](http://example.com/)
   * Time Series & Forecasting
 - [TSA on Telecom Revenue Data](http://example.com/)
 
