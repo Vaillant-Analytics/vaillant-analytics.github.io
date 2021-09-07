@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Please feel free to click on the project titles below and view examples of my work.
+_Please feel free to click on the project titles below and view examples of my work._
 
 ## Business Intelligence
 1. Tableau
