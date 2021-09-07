@@ -2,11 +2,11 @@
 _Please feel free to click on the project titles below and view examples of my work._
 
 #### Github Project Folder Structure:
-1. **Cleansed Datasets** - Contains cleansed, prepared datasets from analysis
-2. **Explanations** - Contains explanations of the analysis
-3. **Exported Models** - Contains final exported models of the analysis
-4. **Jupyter Notebooks** - Contains all code (R & Python), markdown files, and HTML/PDF Markdown output of the analysis
-5. **Raw Datasets** - Contains raw datasets used in the analysis
+1. **Cleansed Datasets** - contains Cleansed, Prepared Datasets from the analysis
+2. **Explanations** - contains Explanations of the analysis
+3. **Exported Models** - contains final Exported Models of the analysis
+4. **Jupyter Notebooks** - contains all Code (R & Python) and HTML/PDF Markdown Output of the analysis
+5. **Raw Datasets** - contains Raw Datasets used in the analysis
 
 ## Business Intelligence
 1. Tableau
