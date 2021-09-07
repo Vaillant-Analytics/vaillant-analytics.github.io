@@ -5,7 +5,7 @@ _Please feel free to click on the project titles below and view examples of my w
 1. **Cleansed Datasets** - contains Cleansed, Prepared Datasets from the analysis
 2. **Explanations** - contains Explanations of the analysis
 3. **Exported Models** - contains Final Exported Models of the analysis
-4. **Jupyter Notebooks** - contains all Code in Jupyter Notebooks (Python-Only) and PDF/Markdown files (R-Only)
+4. **Jupyter Notebooks** - contains all Code in Jupyter Notebooks (_Python-Only_) and PDF/Markdown/Script files (_R-Only_)
 5. **Raw Datasets** - contains Raw Datasets used in the analysis
 
 ## Business Intelligence
