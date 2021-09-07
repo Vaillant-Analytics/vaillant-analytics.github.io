@@ -7,7 +7,7 @@
 
 ## Machine Learning
 1. Sentiment Analysis
-    * [NLTK & TF Sentiment Analysis on Amazon Reviews](http://example.com/)
+    * [NLTK & TF Sentiment Analysis on Amazon Reviews](https://github.com/Vaillant-Analytics/NLTK-TF-Sentiment-Analysis-on-Amazon-Reviews)
     * [USE Sentiment Analysis on Amazon Reviews](http://example.com/)
 
 2. Supervised Learning
