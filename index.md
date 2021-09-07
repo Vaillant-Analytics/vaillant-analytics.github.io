@@ -2,7 +2,7 @@
 
 ## Business Intelligence
 1. Tableau
-    * [Telecom Company Churn Dashboard](/sample_page)
+    * [Telecom Company Churn Dashboard](https://github.com/Vaillant-Analytics/Telecom-Company-Churn-Dashboard)
 2. Power BI (Coming Soon)
 
 ## Machine Learning
