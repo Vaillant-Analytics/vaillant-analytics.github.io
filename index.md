@@ -1,12 +1,13 @@
 # Data Science Portfolio
 _Please feel free to click on the project titles below and view examples of my work._
 
-#### Github Project Folder Breakdown:
-1. Cleansed Datasets - Contains cleansed, prepared datasets from analysis
-2. Explanations - Contains explanations of the analysis
-3. Exported Models - Contains final exported models of the analysis
-4. Jupyter Notebooks - Contains all code (R & Python), markdown files, and HTML/PDF Markdown output of the analysis
-5. Raw Datasets - Contains raw datasets used in the analysis
+#### Github Project Folder Structure:
+1. **Cleansed Datasets** - Contains cleansed, prepared datasets from analysis
+2. **Explanations** - Contains explanations of the analysis
+3. **Exported Models** - Contains final exported models of the analysis
+4. **Jupyter Notebooks** - Contains all code (R & Python), markdown files, and HTML/PDF Markdown output of the analysis
+5. **Raw Datasets** - Contains raw datasets used in the analysis
+
 ## Business Intelligence
 1. Tableau
     * [Telecom Company Churn Dashboard](https://github.com/Vaillant-Analytics/Telecom-Company-Churn-Dashboard)
@@ -36,5 +37,4 @@ _Please feel free to click on the project titles below and view examples of my w
       * [KMeans EDA on Telecom Churn Data](https://github.com/Vaillant-Analytics/KMeans-EDA-on-Telecom-Churn-Data)
     * Dimensionality Reduction
       * [Dimensionality Reduction](https://github.com/Vaillant-Analytics/Principal-Component-Analysis-EDA-on-Telecom-Churn-Data)
-
 ---
