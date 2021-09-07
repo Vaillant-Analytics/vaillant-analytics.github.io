@@ -4,7 +4,7 @@ _Please feel free to click on the project titles below and view examples of my w
 #### Github Project Folder Structure:
 1. **Cleansed Datasets** - contains Cleansed, Prepared Datasets from the analysis
 2. **Explanations** - contains Explanations of the analysis
-3. **Exported Models** - contains final Exported Models of the analysis
+3. **Exported Models** - contains Final Exported Models of the analysis
 4. **Jupyter Notebooks** - contains all Code (R & Python) and HTML/PDF Markdown Output of the analysis
 5. **Raw Datasets** - contains Raw Datasets used in the analysis
 
