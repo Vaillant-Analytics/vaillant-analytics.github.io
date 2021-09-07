@@ -1,5 +1,5 @@
 # Data Science Portfolio
-_Please feel free to click on the project titles below and view examples of my work. 
+_Please feel free to click on the project titles below and view examples of my work._
 
 #### Github Project Folder Breakdown:
 1. Cleansed Datasets - Contains cleansed, prepared datasets from analysis
