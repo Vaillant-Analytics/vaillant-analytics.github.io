@@ -24,10 +24,10 @@
 
 3. Unsupervised Learning
     * Association
-      * [Market Basket Analysis on Telecom Product Data](http://example.com/)
+      * [Market Basket Analysis on Telecom Product Data](https://github.com/Vaillant-Analytics/Market-Basket-Analysis-on-Telecom-Product-Data)
     * Clustering
-      * [KMeans EDA on Telecom Churn Data](http://example.com/)
+      * [KMeans EDA on Telecom Churn Data](https://github.com/Vaillant-Analytics/KMeans-EDA-on-Telecom-Churn-Data)
     * Dimensionality Reduction
-      * [Dimensionality Reduction](http://example.com/)
+      * [Dimensionality Reduction](https://github.com/Vaillant-Analytics/Principal-Component-Analysis-EDA-on-Telecom-Churn-Data)
 
 ---
