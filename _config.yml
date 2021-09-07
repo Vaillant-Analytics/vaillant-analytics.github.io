@@ -1,11 +1,10 @@
 title: Alex Vaillant # your name (or website title) here
 logo: "Github picture.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+  Welcome to my Data Science Portfolio!
   <br><br>
   <a href="www.linkedin.com/in/alexander-vaillant/">View My LinkedIn Profile</a> 
+  <br><br>
   <a href="https://github.com/Vaillant-Analytics/Resume/blob/main/Vaillant%20Resume.pdf" download>View my Current Resume</a>
   
 theme: jekyll-theme-minimal
