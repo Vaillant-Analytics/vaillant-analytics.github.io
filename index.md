@@ -1,6 +1,12 @@
 # Data Science Portfolio
-_Please feel free to click on the project titles below and view examples of my work. Code and Markdown files can be found in the **Jupyter Notebooks** folder. Explanations of my work can be found in the **Explanations** folder._
+_Please feel free to click on the project titles below and view examples of my work. 
 
+#### Github Project Folder Breakdown:
+1. Cleansed Datasets - Contains cleansed, prepared datasets from analysis
+2. Explanations - Contains explanations of the analysis
+3. Exported Models - Contains final exported models of the analysis
+4. Jupyter Notebooks - Contains all code (R & Python), markdown files, and HTML/PDF Markdown output of the analysis
+5. Raw Datasets - Contains raw datasets used in the analysis
 ## Business Intelligence
 1. Tableau
     * [Telecom Company Churn Dashboard](https://github.com/Vaillant-Analytics/Telecom-Company-Churn-Dashboard)
