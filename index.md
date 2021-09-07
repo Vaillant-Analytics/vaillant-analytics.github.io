@@ -1,5 +1,5 @@
 # Data Science Portfolio
-_Please feel free to click on the project titles below and view examples of my work._
+_Please feel free to click on the project titles below and view examples of my work. Code and Markdown files can be found in the *Jupyter Notebooks* folder. Explanations of my work can be found in the *Explanations* folder._
 
 ## Business Intelligence
 1. Tableau
