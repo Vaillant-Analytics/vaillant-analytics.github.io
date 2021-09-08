@@ -3,10 +3,8 @@ logo: "Github picture.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my Data Science Portfolio!
   <br><br>
-  View my Certifications:
-  <br>
+  <ul>View my Certifications:
     <li><a href="https://www.coursera.org/account/accomplishments/professional-cert/RENJEW5Z6H4T">IBM Data Science Professional Certificate</a>
-  <br>
     <li><a href="https://wgu.badgr.com/public/assertions/fxW03QEpQruEClsHlm4X7g">Advanced Data Modeling Micro-Credential</a>
   <br><br>
   <a href="https://www.linkedin.com/in/alexander-vaillant/">View My LinkedIn Profile</a> 
