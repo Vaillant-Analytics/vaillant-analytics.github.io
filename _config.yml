@@ -8,7 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/Vaillant-Analytics/Resume/blob/main/Vaillant%20Resume.pdf" download>View my Current Resume</a>
   <br><br>
   View my Certifications:
+  <br>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/RENJEW5Z6H4T">IBM Data Science Professional Certificate</a>
+  <br>
   <a href="https://wgu.badgr.com/public/assertions/fxW03QEpQruEClsHlm4X7g">Advanced Data Modeling Micro-Credential</a> 
   
 theme: jekyll-theme-minimal
