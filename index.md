@@ -36,4 +36,4 @@ _Please feel free to click on the project titles below and view examples of my w
     * Clustering
       * [KMeans EDA on Telecom Churn Data](https://github.com/Vaillant-Analytics/KMeans-EDA-on-Telecom-Churn-Data)
     * Dimensionality Reduction
-      * [Dimensionality Reduction](https://github.com/Vaillant-Analytics/Principal-Component-Analysis-EDA-on-Telecom-Churn-Data)
+      * [Principal Component Analysis EDA on Telecom Churn Data](https://github.com/Vaillant-Analytics/Principal-Component-Analysis-EDA-on-Telecom-Churn-Data)
