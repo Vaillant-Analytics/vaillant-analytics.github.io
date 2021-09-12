@@ -17,6 +17,7 @@ _Please feel free to click on the project titles below and view examples of my w
 1. Sentiment Analysis
     * [NLTK & TF Sentiment Analysis on Amazon Reviews](https://github.com/Vaillant-Analytics/NLTK-TF-Sentiment-Analysis-on-Amazon-Reviews)
     * [USE Sentiment Analysis on Amazon Reviews](https://github.com/Vaillant-Analytics/USE-Sentiment-Analysis-on-Amazon-Reviews)
+    * [Natural Language Processing on Disaster Tweets](https://github.com/Vaillant-Analytics/Natural-Language-Processing-on-Disaster-Tweets)
 
 2. Supervised Learning
     * Classification
